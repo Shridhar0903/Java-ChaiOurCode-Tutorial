@@ -10,6 +10,16 @@ public class Strings {
         System.out.println("Enter Your Text : ");
         sc.nextLine();
 
+        System.out.println(name.length());
+         System.out.println(name.charAt(1));
+         System.out.println(name.charAt(4));
+          System.out.println(name.toUpperCase());
+          System.out.println(name.toLowerCase());
+          System.out.println(name.contains("h"));
+              System.out.println(name.startsWith("Sh"));
+                  System.out.println(name.endsWith("Q"));
+                      System.out.println(name.replace("Shridhar", "Harsh"));
+
 
         
     }
