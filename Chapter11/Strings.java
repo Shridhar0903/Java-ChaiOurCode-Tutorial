@@ -27,3 +27,4 @@ public class Strings {
 }
 
 //string are bascially sequence of character  used to store the text .
+//Strings Are Immutable 
